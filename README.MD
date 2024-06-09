@@ -1,3 +1,3 @@
 # TREVEL to Nature
 
-Build by JavaScript Node.JS Express Monfoose and also used Stripe payment sistem , JWT in order to make it secure
+Built by JavaScript, Node.js, Express, MongoDB, Mongoose, HTML, CSS, also utilizing the Stripe payment system, JWT to make it secure and so on... .
